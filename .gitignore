@@ -14,3 +14,4 @@ cassettes
 
 node_modules/
 package-lock.json
+rest-api/
